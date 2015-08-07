@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level name="The grid" type="defense" tilemap="level4.tmx" cash="500" lives="5" waverepeats="10">
+	<wave points="100">
+		<creep type="1" distance="10" life="10" speed="100" />
+		<creep type="1" distance="50" life="10" speed="100" />
+		<creep type="1" distance="90" life="10" speed="100" />
+		<creep type="1" distance="130" life="10" speed="100" />
+		<creep type="1" distance="170" life="10" speed="100" />
+		<creep type="1" distance="210" life="10" speed="100" />
+	</wave>
+	
+	<wave points="100">
+		<creep type="1" distance="10" life="20" speed="120" />
+		<creep type="1" distance="50" life="20" speed="120" />
+		<creep type="1" distance="90" life="20" speed="120" />
+		<creep type="1" distance="130" life="20" speed="120" />
+		<creep type="1" distance="170" life="20" speed="120" />
+		<creep type="1" distance="210" life="20" speed="120" />
+		<creep type="1" distance="250" life="20" speed="120" />
+		<creep type="1" distance="290" life="20" speed="120" />
+		<creep type="1" distance="330" life="20" speed="120" />
+		<creep type="1" distance="370" life="20" speed="120" />
+		<creep type="1" distance="410" life="20" speed="120" />
+		<creep type="2" distance="500" life="20" speed="150" />
+		<creep type="2" distance="500" life="20" speed="155" />
+		<creep type="2" distance="500" life="20" speed="160" />
+		<creep type="3" distance="450" life="20" speed="120" />
+		<creep type="3" distance="490" life="20" speed="120" />
+		<creep type="3" distance="530" life="20" speed="120" />
+		<creep type="3" distance="570" life="20" speed="120" />
+		<creep type="3" distance="610" life="20" speed="120" />
+	</wave>
+	
+	<wave points="100">
+		<creep type="1" distance="10" life="10" speed="200" />
+		<creep type="1" distance="40" life="10" speed="200" />
+		<creep type="1" distance="70" life="10" speed="200" />
+		<creep type="1" distance="100" life="10" speed="200" />
+		<creep type="1" distance="130" life="10" speed="200" />
+		<creep type="1" distance="160" life="10" speed="200" />
+		<creep type="1" distance="190" life="10" speed="200" />
+		<creep type="1" distance="220" life="10" speed="200" />
+		<creep type="1" distance="250" life="10" speed="200" />
+		<creep type="1" distance="280" life="10" speed="200" />
+		<creep type="1" distance="310" life="10" speed="200" />
+		<creep type="1" distance="340" life="10" speed="200" />
+		<creep type="1" distance="370" life="10" speed="200" />
+		<creep type="1" distance="400" life="10" speed="200" />
+		<creep type="1" distance="430" life="10" speed="200" />
+		<creep type="1" distance="470" life="10" speed="200" />
+		<creep type="2" distance="500" life="5" speed="300" />
+		<creep type="2" distance="532" life="5" speed="300" />
+		<creep type="2" distance="564" life="5" speed="300" />
+	</wave>
+	
+	<wave points="100">
+		<creep type="2" distance="10" life="200" speed="30" />
+		<creep type="2" distance="100" life="200" speed="30" />
+		<creep type="2" distance="200" life="200" speed="30" />
+		<creep type="2" distance="300" life="200" speed="30" />
+		<creep type="2" distance="400" life="200" speed="30" />
+		<creep type="2" distance="500" life="200" speed="30" />
+		<creep type="2" distance="600" life="200" speed="30" />
+	</wave>
+</level>
